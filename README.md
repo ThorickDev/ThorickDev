@@ -55,8 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Rychpack/Rychpack/output/snake.svg" alt="Snake animation" />
-
-###
-  
