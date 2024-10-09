@@ -3,7 +3,6 @@
 ###
 
 <p> Olá, Me chamo Richard Patrick🖖🏼💻 Estou cursando faz 1 ano de estágio no Observatório Nacional no departamento Ditin. Os projetos criados que participei foi nos sites IOAA 2024, 20iagaworkshop, cosmosul vii, na criação da inteligência artificial Aurora e na criação de tags de estacionamento.
-No momento participando da criação do Observatório Nacional em realidade aumentada.
 </p>
 <p align="left">
 - Atualmente me graduando em Ciência da Computação na Descomplica<br>- Estagiando no Observatório Nacional 🔭🌌<br>  - No foco em desenvolvimento ciêntifico ☄️</p>
