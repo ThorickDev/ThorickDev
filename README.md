@@ -1,11 +1,20 @@
 <h2 align="left">About me</h2>
 
 ###
+<h3>Hello! I'm Richard Patrick 🖖🏼💻</h3>
+I'm a Computer Science student at Descomplica Faculdade Digital, and I currently work as an intern at the National Observatory, in the DITIN department – Division of Information Technology.
 
-<p> Olá, Me chamo Richard Patrick🖖🏼💻 faço estágio no Observatório Nacional no departamento Ditin. Os projetos criados que participei foi nos sites IOAA 2024, 20iagaworkshop, cosmosul vii, na criação da inteligência artificial Aurora..
-</p>
-<p align="left">
-- Atualmente me graduando em Ciência da Computação na Descomplica<br>- Estagiando no Observatório Nacional 🔭🌌<br>  - No foco em desenvolvimento ciêntifico ☄️</p>
+I’ve been shaping my education to become a fullstack developer, focusing on the C# and .NET stack, along with experience in web technologies, artificial intelligence, and 3D modeling. My goal is to combine programming, design, and innovation to develop efficient, visually engaging, and robust solutions. 💡🧠🎮
+
+🔧 Projects I've contributed to:
+<ul>
+  <li>IOAA 2024 – Development of the official website for the International Olympiad on Astronomy and Astrophysics</li>
+  <li>20th IAGAWORKSHOP – Creation of the event’s official portal</li>
+  <li>CosmoSul VII – Website development for the Southern Hemisphere Cosmology meeting</li>
+  <li>Aurora – Development of an AI to support the activities of the National Observatory 🤖✨</li>
+</ul>
+
+I'm driven by challenges and passionate about turning ideas into functional code. Each project brings me closer to my goal of becoming a complete fullstack developer, with a broad and creative approach to software development.
 
 ###
 
