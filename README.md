@@ -56,7 +56,7 @@ Estes são alguns dos projetos em que atuei diretamente, contribuindo para a div
 > Desenvolvimento do website do encontro sul-americano de Cosmologia  
 **Tecnologias:** Frontend personalizado com integração de conteúdo dinâmico
 
-### 🌌 Aurora
+### 🌌 Aurora (em desenvolvimento)
 > Sistema de apoio às atividades do Observatório Nacional  
 Projeto com foco em facilitar o acesso a informações internas da instituição.
 
